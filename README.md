@@ -39,4 +39,4 @@ Generally, the score represents the number of templates rendered per second; the
 Example Results
 ===============
 
-![Template Comparison](results.png)
+![Template Comparison](results.svg)
